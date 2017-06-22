@@ -1,0 +1,16 @@
+{
+  "name": "nearley-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cnd": "^4.2.2",
+    "moo": "^0.3.3",
+    "nearley": "^2.10.1"
+  }
+}
